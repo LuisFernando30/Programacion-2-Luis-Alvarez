@@ -1,5 +1,5 @@
 # Programacion-2-Luis-Alvarez
-/**Parcial #1 / PARTE 2
+/**PRUEBA EN CLASE
  * Nombre de la Clase: Quinta Clase
  * Version 1.0
  * @author Luis Álvarez 8-919-2216
